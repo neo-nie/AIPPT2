@@ -1,5 +1,5 @@
 ---
-name: aippt
+name: aippt2
 description: AIPPT - 从文章生成精美 PPT 的完整工作流。文章内容 → ASCII PPT 框架 → AI 生图 → 完整 PPT。
 ---
 
